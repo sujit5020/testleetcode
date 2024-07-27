@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sujit5020/testleetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/sujit5020/testleetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
