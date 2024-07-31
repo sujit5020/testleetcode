@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/sujit5020/testleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sujit5020/testleetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sujit5020/testleetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sujit5020/testleetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sujit5020/testleetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujit5020/testleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
