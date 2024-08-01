@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujit5020/testleetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujit5020/testleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sujit5020/testleetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujit5020/testleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujit5020/testleetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sujit5020/testleetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
