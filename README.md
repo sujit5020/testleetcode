@@ -32,10 +32,12 @@
 | [0007-reverse-integer](https://github.com/sujit5020/testleetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sujit5020/testleetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sujit5020/testleetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sujit5020/testleetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
