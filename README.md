@@ -31,11 +31,13 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sujit5020/testleetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sujit5020/testleetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/sujit5020/testleetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sujit5020/testleetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 ## Hash Table
