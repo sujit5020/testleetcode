@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/sujit5020/testleetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sujit5020/testleetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sujit5020/testleetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujit5020/testleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sujit5020/testleetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sujit5020/testleetcode/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sujit5020/testleetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 ## Hash Table
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
