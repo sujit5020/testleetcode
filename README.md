@@ -81,4 +81,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/sujit5020/testleetcode/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/sujit5020/testleetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
