@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/sujit5020/testleetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sujit5020/testleetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/sujit5020/testleetcode/tree/master/1078-remove-outermost-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
