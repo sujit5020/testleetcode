@@ -94,4 +94,8 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sujit5020/testleetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
