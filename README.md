@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujit5020/testleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sujit5020/testleetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sujit5020/testleetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sujit5020/testleetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sujit5020/testleetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sujit5020/testleetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
@@ -95,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sujit5020/testleetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
 ## Linked List
 |  |
