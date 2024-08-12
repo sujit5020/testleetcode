@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujit5020/testleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sujit5020/testleetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/sujit5020/testleetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sujit5020/testleetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sujit5020/testleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sujit5020/testleetcode/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujit5020/testleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sujit5020/testleetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/sujit5020/testleetcode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
 ## Linked List
 |  |
