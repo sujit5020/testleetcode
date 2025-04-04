@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sujit5020/testleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sujit5020/testleetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/sujit5020/testleetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujit5020/testleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sujit5020/testleetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sujit5020/testleetcode/tree/master/0162-find-peak-element) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sujit5020/testleetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/sujit5020/testleetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujit5020/testleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/sujit5020/testleetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
