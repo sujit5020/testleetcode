@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujit5020/testleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sujit5020/testleetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sujit5020/testleetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sujit5020/testleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sujit5020/testleetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujit5020/testleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujit5020/testleetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sujit5020/testleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sujit5020/testleetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -158,4 +160,8 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/sujit5020/testleetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/sujit5020/testleetcode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sujit5020/testleetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sujit5020/testleetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
