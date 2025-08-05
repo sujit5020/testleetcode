@@ -60,6 +60,7 @@
 | [0029-divide-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sujit5020/testleetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sujit5020/testleetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0371-sum-of-two-integers) |
@@ -78,6 +79,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sujit5020/testleetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sujit5020/testleetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sujit5020/testleetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/sujit5020/testleetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
