@@ -65,6 +65,7 @@
 | [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0371-sum-of-two-integers) |
+| [0476-number-complement](https://github.com/sujit5020/testleetcode/tree/master/0476-number-complement) |
 ## Hash Table
 |  |
 | ------- |
