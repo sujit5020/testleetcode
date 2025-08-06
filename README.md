@@ -58,6 +58,7 @@
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/sujit5020/testleetcode/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/sujit5020/testleetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -72,6 +73,7 @@
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/sujit5020/testleetcode/tree/master/0476-number-complement) |
+| [1610-xor-operation-in-an-array](https://github.com/sujit5020/testleetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
