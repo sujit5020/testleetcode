@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sujit5020/testleetcode/tree/master/0890-lemonade-change) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/sujit5020/testleetcode/tree/master/1013-fibonacci-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/sujit5020/testleetcode/tree/master/0476-number-complement) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujit5020/testleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/sujit5020/testleetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/sujit5020/testleetcode/tree/master/0089-gray-code) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -192,4 +196,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sujit5020/testleetcode/tree/master/0067-add-binary) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
