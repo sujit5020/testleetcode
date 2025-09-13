@@ -60,6 +60,7 @@
 | [1013-fibonacci-number](https://github.com/sujit5020/testleetcode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/sujit5020/testleetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/sujit5020/testleetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0125-valid-palindrome](https://github.com/sujit5020/testleetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sujit5020/testleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sujit5020/testleetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/sujit5020/testleetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/sujit5020/testleetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sujit5020/testleetcode/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/sujit5020/testleetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Database
 |  |
 | ------- |
