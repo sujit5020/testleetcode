@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sujit5020/testleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sujit5020/testleetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sujit5020/testleetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sujit5020/testleetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sujit5020/testleetcode/tree/master/0191-number-of-1-bits) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujit5020/testleetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/sujit5020/testleetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sujit5020/testleetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Memoization
 |  |
@@ -228,9 +230,14 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sujit5020/testleetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sujit5020/testleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sujit5020/testleetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sujit5020/testleetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
