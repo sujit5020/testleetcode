@@ -23,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/sujit5020/testleetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sujit5020/testleetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sujit5020/testleetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sujit5020/testleetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sujit5020/testleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sujit5020/testleetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@
 | [0067-add-binary](https://github.com/sujit5020/testleetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/sujit5020/testleetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/sujit5020/testleetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sujit5020/testleetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sujit5020/testleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sujit5020/testleetcode/tree/master/0371-sum-of-two-integers) |
@@ -218,6 +220,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sujit5020/testleetcode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
@@ -240,4 +243,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sujit5020/testleetcode/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sujit5020/testleetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
