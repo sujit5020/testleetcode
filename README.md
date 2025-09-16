@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sujit5020/testleetcode/tree/master/0890-lemonade-change) |
+| [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@
 | [0217-contains-duplicate](https://github.com/sujit5020/testleetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -247,4 +250,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sujit5020/testleetcode/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
