@@ -34,6 +34,7 @@
 | [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sujit5020/testleetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/sujit5020/testleetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sujit5020/testleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/sujit5020/testleetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0162-find-peak-element](https://github.com/sujit5020/testleetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/sujit5020/testleetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/sujit5020/testleetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -254,4 +257,5 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/sujit5020/testleetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
