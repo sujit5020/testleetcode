@@ -95,6 +95,7 @@
 | [0268-missing-number](https://github.com/sujit5020/testleetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sujit5020/testleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sujit5020/testleetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sujit5020/testleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/sujit5020/testleetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/sujit5020/testleetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sujit5020/testleetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/sujit5020/testleetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -258,4 +260,5 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/sujit5020/testleetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujit5020/testleetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sujit5020/testleetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
